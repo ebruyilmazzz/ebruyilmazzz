@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CodeIgniter and enhancing my skills in Java, database management, and modern web technologies.  
 - 💞️ I’m looking to collaborate on full-stack projects that focus on creating efficient, user-friendly, and impactful applications.  
 - 📫 How to reach me: ebruylmaazz0505@gmail.com  
-- 😄 Pronouns: She/Her  
+- 😄 Pronouns: She 
 - ⚡ Fun fact: I enjoy combining technology with my artistic hobbies, like designing creative dessert recipe websites!  
 
 <!---
