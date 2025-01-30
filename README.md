@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebruyilmazzz  
-- 👀 I’m interested in full-stack development, software engineering.  
+- 👀 I’m interested in full-stack development, software developer.  
 - 🌱 I’m currently learning CodeIgniter and enhancing my skills in Java, database management, and modern web technologies.  
 - 💞️ I’m looking to collaborate on full-stack projects that focus on creating efficient, user-friendly, and impactful applications.  
 - 📫 How to reach me: ebruylmaazz0505@gmail.com  
